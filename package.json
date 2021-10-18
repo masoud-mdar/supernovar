@@ -1,0 +1,20 @@
+{
+  "name": "supernovar",
+  "version": "1.0.0",
+  "description": "Getting control over simple variables in JavaScript by turning them into super variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masoud-mdar/supernovar.git"
+  },
+  "keywords": ["variable", "stack", "undo"],
+  "author": "Masoud Mohammadi Darvishvand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masoud-mdar/supernovar/issues"
+  },
+  "homepage": "https://github.com/masoud-mdar/supernovar#readme"
+}
